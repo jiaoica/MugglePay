@@ -62,7 +62,7 @@ Shopify is not just an ecommerce software, Shopify is one of the best ecommerce 
 ### WooCommerce
 
 <a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
-<img src="https://dcdn.mugglepay.com/pay/media/git/shopify.png" height="50px" style="padding-right: 50px;"/>  
+<img src="http://cdn.maguapay.com/guide/logo/p2.jpg" height="50px" style="padding-right: 50px;"/>  
 </a>
 
 WooCommerce has a popular e-commerce payment solution that fully meets the needs of the platform.
@@ -70,7 +70,7 @@ WooCommerce has a popular e-commerce payment solution that fully meets the needs
 ### WordPress
 
 <a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
-<img src="https://dcdn.mugglepay.com/pay/media/git/shopify.png" height="50px" style="padding-right: 50px;"/>  
+<img src="http://cdn.maguapay.com/guide/logo/p1.png" height="50px" style="padding-right: 50px;"/>  
 </a>
 
 WordPress is web publishing software you can use to create a beautiful website or blog. It just may be the easiest and most flexible blogging and website content management system (CMS) for beginners.
@@ -78,7 +78,7 @@ WordPress is web publishing software you can use to create a beautiful website o
 ### OpenCart
 
 <a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
-<img src="https://dcdn.mugglepay.com/pay/media/git/shopify.png" height="50px" style="padding-right: 50px;"/>  
+<img src="http://cdn.maguapay.com/guide/logo/p3.png" height="50px" style="padding-right: 50px;"/>  
 </a>
 
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
