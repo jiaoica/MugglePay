@@ -69,7 +69,7 @@ WooCommerce是最受欢迎的电子商务解决方案平台，拥有超过400个
 ### WordPress
 
 <a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
-<img src="http://cdn.maguapay.com/guide/logo/p3.png" height="50px" style="padding-right: 50px;"/>  
+<img src="http://cdn.maguapay.com/guide/logo/p1.png" height="50px" style="padding-right: 50px;"/>  
 </a>
 
 WordPress 是最受欢迎的网页制作平台 / 网站管理系统，它是持续更新的开源软体，任何人都能免费使用它。
@@ -77,7 +77,7 @@ WordPress 是最受欢迎的网页制作平台 / 网站管理系统，它是持�
 ### OpenCart
 
 <a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
-<img src="https://dcdn.mugglepay.com/pay/media/git/shopify.png" height="50px" style="padding-right: 50px;"/>  
+<img src="http://cdn.maguapay.com/guide/logo/p3.png" height="50px" style="padding-right: 50px;"/>  
 </a>
 
 OpenCart 是免费开源网络版电子商务系统，是建立在线商务网站首选之一,利用OpenCart的丰富特性与模板插件，可最大化定制您的在线商店，发挥您在线商店最大优势。
