@@ -58,6 +58,30 @@ MugglePay是为有在线收款需求的商家提供的数字货币解决方案�
 
 中国电商品牌出海优选SaaS平台，全球175个国家100万商家信赖_一站式体验_完善生态系统_集云端建站,库存管理,多渠道销售于一体。
 
+### WooCommerce
+
+<a href="https://mp.weixin.qq.com/s/Hg8144_iDVRkULCzFMJzwg">
+<img src="http://cdn.maguapay.com/guide/logo/p2.jpg" height="50px" style="padding-right: 50px;"/>  
+</a>
+
+WooCommerce是最受欢迎的电子商务解决方案平台，拥有超过400个官方扩展和插件。WooCommerce的一个明显优势是：免费开源。
+
+### WordPress
+
+<a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
+<img src="http://cdn.maguapay.com/guide/logo/p3.png" height="50px" style="padding-right: 50px;"/>  
+</a>
+
+WordPress 是最受欢迎的网页制作平台 / 网站管理系统，它是持续更新的开源软体，任何人都能免费使用它。
+
+### OpenCart
+
+<a href="https://medium.com/@mugglepay/mugglepay-crypto-payment-plugin-launches-on-shopify-6904f3c3eca">
+<img src="https://dcdn.mugglepay.com/pay/media/git/shopify.png" height="50px" style="padding-right: 50px;"/>  
+</a>
+
+OpenCart 是免费开源网络版电子商务系统，是建立在线商务网站首选之一,利用OpenCart的丰富特性与模板插件，可最大化定制您的在线商店，发挥您在线商店最大优势。
+
 ### WHMCS
 
 <a href="https://github.com/bitpaydev/bitpayxForWHMCS">
